@@ -14,12 +14,11 @@ I'm an Informatics student at Alma Ata University. Currently, I'm enthusiastic a
 
 
 ## 📞 Connect With me 
-![www.linkedin.com/in/kholil-mustofa-25b669335](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/kh0lil_m?igsh=dmdkajE5a253OXM=](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![linkedin][https://www.linkedin.com/in/kholil-mustofa-25b669335]](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [![instagram][https://www.instagram.com/kh0lil_m?igsh=dmdkajE5a253OXM=]](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 <h2 align="left">🎮 Play Game</h2>
 
 ###
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kholilmustofa/kholilmustofa/output/pacman-contribution-graph-dark.svg">
