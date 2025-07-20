@@ -20,10 +20,14 @@ I'm an Informatics student at Alma Ata University. Currently, I'm enthusiastic a
 
 ###
 
-<img src="https://raw.githubusercontent.com/kholilmustofa/kholilmustofa/output/snake.svg" alt="Snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kholilmustofa/kholilmustofa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kholilmustofa/kholilmustofa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kholilmustofa/kholilmustofa/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
-
 
 <!--
 
