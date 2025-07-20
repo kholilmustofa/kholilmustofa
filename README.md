@@ -9,8 +9,8 @@ I'm an Informatics student at Alma Ata University. Currently, I'm enthusiastic a
 
 ## 📈 Stats 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kholilmustofa&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kholilmustofa&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kholilmustofa&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kholilmustofa&layout=compact&theme=transparent)
 
 
 ## 📞 Connect With me 
