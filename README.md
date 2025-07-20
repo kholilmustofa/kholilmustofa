@@ -1,55 +1,40 @@
 ## Hi! 👋 I'm Kholil Mustofa, nice to meet you 😉
 
-![Kholil Mustofa](img/github-header-image.png)
+I'm an Informatics student at Alma Ata University. Currently, I'm enthusiastic about fullstack web development and experimenting with various new technologies. I'm eager to collaborate on projects and learn together.
 
-### Tentang Saya
-Saya seorang [profesi Anda, misal: Software Engineer] dengan minat pada [sebutkan beberapa minat/teknologi]. Saya suka [hobi atau aktivitas terkait coding/belajar].
+---
+## ✨ My Skills 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,tailwind,figma,mysql,sqlite,laragon&theme=dark)](https://skillicons.dev)
 
 ---
 
-### Keahlian Saya
-🚀 **Bahasa Pemrograman:** [JavaScript, Python, Java, dll.]
-💻 **Framework/Library:** [React, Angular, Vue, Node.js, Spring Boot, Django, dll.]
-🗄️ **Database:** [MongoDB, PostgreSQL, MySQL, dll.]
-☁️ **Cloud/DevOps:** [AWS, Docker, Kubernetes, Netlify, Vercel, dll.]
-✨ **Lain-lain:** [Git, REST APIs, UI/UX Design, dll.]
+## 📈 Stats 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kholilmustofa&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kholilmustofa&layout=compact)
 
 ---
 
-### Proyek Unggulan
-* [Nama Proyek 1](link-ke-repo) - Deskripsi singkat tentang proyek ini.
-* [Nama Proyek 2](link-ke-repo) - Deskripsi singkat tentang proyek ini.
-* [Nama Proyek 3](link-ke-repo) - Deskripsi singkat tentang proyek ini.
+## 📞 Connect With me 
+![www.linkedin.com/in/kholil-mustofa-25b669335](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/kh0lil_m?igsh=dmdkajE5a253OXM=](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ---
+<h2 align="left">🎮 Play Game</h2>
 
-### Sedang Belajar
-Saat ini saya sedang mendalami [teknologi/topik yang sedang dipelajari].
+###
 
----
+<img src="https://raw.githubusercontent.com/kholilmustofa/kholilmustofa/output/snake.svg" alt="Snake animation" />
 
-### Cara Menghubungi Saya
-* **LinkedIn:** [Link ke profil LinkedIn Anda]
-* **Email:** [alamat.email@anda.com]
-* **Twitter/X (opsional):** [Link ke profil Twitter/X Anda]
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kholilmustofa/kholilmustofa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kholilmustofa/kholilmustofa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kholilmustofa/kholilmustofa/output/pacman-contribution-graph.svg">
+</picture>
 
-### Stats 📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kholilmustofa&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kholilmustofa&show_icons=true&theme=default)
+###
 
 <!--
-**kholilmustofa/kholilmustofa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
